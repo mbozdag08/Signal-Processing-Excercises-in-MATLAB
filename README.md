@@ -1,1 +1,1 @@
-# Signal-Processing-Excercises-in-MATLAB
+# Signal-Processing-Exercises-in-MATLAB
